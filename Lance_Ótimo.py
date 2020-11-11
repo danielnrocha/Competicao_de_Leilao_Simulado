@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  2 17:31:41 2020
-
-@author: Blaze
-"""
 #Importando bibliotecas
 import scipy.stats as st
 import scipy.integrate as inte
