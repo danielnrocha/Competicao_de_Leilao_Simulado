@@ -1,5 +1,5 @@
 # Competição de Leilão Simulado – Primeiro Lugar Geral 🏆
-## Repositório do Trabalho do curso de Microeconomia II da Fundação Getulio Vargas (EPGE)
+## Trabalho do curso de Microeconomia II da Fundação Getulio Vargas (EPGE)
 ### Grupo: Daniel Rocha, Kaio Torres, Emanuelle Peixoto, Breno Oliveira
 Desafio: estimar os lances ótimos para uma simulação de leilão selado de primeiro preço. Cada grupo recebia somente uma distribuição de custos, e deveria submeter lances, que posteriomente seriam agregados no leilão. O grupo com maior lucro ganha o desafio.
 
