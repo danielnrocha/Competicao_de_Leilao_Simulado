@@ -9,7 +9,7 @@ import pandas as pd
 g= lambda x: (1-st.dweibull.cdf(x,2.29,41.57,24.71))**7
 
 #Pegando os custos dados
-custos=np.matrix(pd.read_excel("custos_g7 (2).xlsx",index_col=0))
+custos=np.matrix(pd.read_excel("custos_g7.xlsx",index_col=0))
 lcustos=[]
 for i in range(100):
     lcustos+=[custos[i,0]]
